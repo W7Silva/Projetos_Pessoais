@@ -61,18 +61,25 @@
 
 	footer {
 		background-color:#D9D9D9;
-		height: 15vh;
+		height: 20vh;
 		display: flex;
 		justify-content: center;
 		align-items: center;
 	}
 
 	input {
-		padding: 10px;
-		width: 200px;
-	} 
+		padding: 15px;
+		padding-left: initial;
+		width: 250px;
+		color: #808080;
+		font: 1em sans-serif;
+		font-weight: 600;
+	}
 
 	button{
 		background-color: #BF3706;
-		padding: 10px;
+		padding: 15px;
+		color: #ffffff;
+		width: 100px;
+		font: 1em sans-serif;
 	}
