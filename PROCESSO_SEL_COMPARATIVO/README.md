@@ -18,4 +18,4 @@ Em construção :construction: :construction_worker:
 
 - Verifique [aqui](https://ajuste-footer.ws7.repl.co/)
 
-![image](![image](https://user-images.githubusercontent.com/72954820/116150669-0f8da100-a6ba-11eb-955d-3e9c5d940b23.png))
+![image](https://user-images.githubusercontent.com/72954820/116150669-0f8da100-a6ba-11eb-955d-3e9c5d940b23.png)
