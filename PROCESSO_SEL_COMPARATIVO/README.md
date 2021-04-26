@@ -6,6 +6,7 @@ Em construção :construction: :construction_worker:
 
 - [ ] Página Semântica
 - [ ] Responsividade
+- [x] Ajuste footer/placeholder
 
 ## Resultado Primeiro código
 
