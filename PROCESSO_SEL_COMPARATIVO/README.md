@@ -6,6 +6,7 @@ Em construção :construction: :construction_worker:
 
 - [ ] Página Semântica
 - [ ] Responsividade
+- [x] Ajuste footer/placeholder
 
 ## Resultado Primeiro código
 
@@ -15,6 +16,6 @@ Em construção :construction: :construction_worker:
 
 ## Resultado do Código em atualização
 
-- Verifique [aqui](https://processoseletivoatualizado.ws7.repl.co/)
+- Verifique [aqui](https://ajuste-footer.ws7.repl.co/)
 
-![image](https://user-images.githubusercontent.com/72954820/115639279-945b7200-a2ea-11eb-8e7e-1e65153850c8.png)
+![image](https://user-images.githubusercontent.com/72954820/116150669-0f8da100-a6ba-11eb-955d-3e9c5d940b23.png)
